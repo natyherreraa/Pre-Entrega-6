@@ -28,3 +28,13 @@ La limpieza contempla tanto los valores nulos como el código `9999.9`, que la N
 
 En los archivos analizados se encontraron **236 registros por aeropuerto**, sin fechas duplicadas dentro de un mismo aeropuerto ni valores faltantes en las tres variables de temperatura.
 
+
+## Hallazgos principales
+
+Junio presentó la temperatura media mensual más baja en ambos aeropuertos: 11,09 °C en Aeroparque y 9,52 °C en Ezeiza. Agosto tiene cobertura parcial, con 24 días observados por aeropuerto.
+
+Ezeiza alcanzó la máxima del período, 39 °C, el 3 y el 10 de febrero. En Aeroparque, la máxima fue de 36,28 °C el 11 de febrero.
+
+Ezeiza registró 31 días con máxima de al menos 30 °C y mínima de al menos 20 °C. Aeroparque registró 26.
+  
+La mayor diferencia entre las temperaturas medias diarias fue de 4,17 °C el 18 de junio: 11,06 °C en Aeroparque y 6,89 °C en Ezeiza.
